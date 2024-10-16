@@ -1,6 +1,6 @@
 1. you need to understand the code first to use later
 
-2. just run the ragalahari downloader.py in needed folder
+2. just run the ragalahari Image_Donwloader.py in needed folder
 
 3. follow the steps to include specific gallery into your folder
     -> go to ragalahari.com or idlebrain.com
