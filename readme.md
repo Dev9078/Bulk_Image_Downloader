@@ -11,16 +11,19 @@
 
         old type: https://img.ragalahari.com/gallery/kajalpink/kajalpink1.jpg
         new type: https://m.ragalahari.com/actress/79923/heroine-ritika-singh-photos/image1.aspx
-
-    -> if url is same as new one you need to go at chrome dev tools and on line 344 of html you can see the
+    
+    -> if the url is old type than there is no problem but,
+    -> if the url is new type
+    -> 1st download the .aspx extension after downloading it open that file into an source code editor which has index nmber system
+    -> after opening .aspx file on line 344 or 369 of html you can see the
         
         img src= "https://starzone.ragalahari.com/nov2016/posters/ritika-singh-shivalinga/ritika-singh-shivalinga1.jpg"
             
             -> just copy source url and paste it like below
 
 4. Enter Details as pe below
-    Enter URL: https://m.ragalahari.com/actress/79923/heroine-ritika-singh-photos/image
-
+    Enter URL: https://starzone.ragalahari.com/nov2016/posters/ritika-singh-shivalinga/ritika-singh-shivalinga
+    <!-- do not enter the last image number and extension e.g.: 1.jpg -->
     Start Index Number: 1
         <!-- it will always start from 1 or whenever you want to start from -->
     End Index Number: 
