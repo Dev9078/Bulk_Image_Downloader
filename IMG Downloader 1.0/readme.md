@@ -1,8 +1,14 @@
-1. you need to understand the code first to use later
+you need a *IMG link Fetcher.py* for that for faster work.
+if we want to fetch img sources list from any kind of website we needed to use IMG link fetching.
 
-2. just run the ragalahari Image_Donwloader.py in needed folder
+*you need to understand the code first to use later*
+*This instruction is for only 1.0 versions*
 
-3. follow the steps to include specific gallery into your folder
+Info About IMG Downloader 1.0:
+    it is a basic bulk image downloader based on python
+1. just run the ragalahari Image_Donwloader.py in needed folder
+
+2. follow the steps to include specific gallery into your folder
     -> go to ragalahari.com or idlebrain.com
     -> click on actor/actress gallery you want to download
     -> click on first image of perticular gallery
@@ -21,7 +27,7 @@
             
             -> just copy source url and paste it like below
 
-4. Enter Details as pe below
+3. Enter Details as pe below
     Enter URL: https://starzone.ragalahari.com/nov2016/posters/ritika-singh-shivalinga/ritika-singh-shivalinga
     <!-- do not enter the last image number and extension e.g.: 1.jpg -->
     Start Index Number: 1
@@ -31,5 +37,3 @@
     Enter File Extension: .jpg
     Enter Folder Name: (Enter Path or Enter Name)
         <!-- The new folder will created automatically in downloder.py parent folder -->
-
-5. now it is almost ready if any problem occur contact me:
